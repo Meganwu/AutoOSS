@@ -1,6 +1,6 @@
 # Auto_Reaction_STM
+<img src="./images/framework_total.png" alt="Workflow" style="width:60%;">
 
-![ResNet18 architecture](./Image/framework_total.png)
 We developed the framework of AutoOSS (Autonomous on-surface synthesis) to automate chemical reactions (breaking C-Br) in scanning tunneling microscopy. It comprises the remote connection, target dection module, interpetation module (image classifiers to identify reactants and products), decision-making module to optimize parameters as well as various analysis scritps. 
 
 
