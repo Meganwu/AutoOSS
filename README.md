@@ -1,5 +1,34 @@
 # Auto_Reaction_STM
-We develop a deep reinforcement learning approach to automate chemical reactions (breaking C-Br) in scanning probe microscopy. It comprises the remote connection, path planning module, image and signal process and classification module, reinforcement learning framework to find optimal policy to achieve goals.
+We developed the framework of AutoOSS (Autonomous on-surface synthesis) to automate chemical reactions (breaking C-Br) in scanning tunneling microscopy. It comprises the remote connection, target dection module, interpetation module (image classifiers to identify reactants and products), decision-making module to optimize parameters as well as various analysis scritps. 
+
+
+# Installation
+
+## Install from package
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to the main directory
+   cd AutoOSS
+
+3. Install dependenceies
+   pip install -r requirements.txt
+
+## Install from 'conda install'
+
+conda install -c your-anaconda-username your-package-name
+
+
+6. 
+
+
+
+# Usage
+
+
+
 
 
 # env_module
