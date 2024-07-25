@@ -38,12 +38,6 @@ conda install -c your-anaconda-username your-package-name
 # task_script
 
 
-# Installation
-
-## Python 
-## Creactec STM/AFM
-## Pytorch
-
 # License
 
 
