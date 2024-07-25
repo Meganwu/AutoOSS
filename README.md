@@ -8,7 +8,7 @@ We developed the framework of AutoOSS (Autonomous on-surface synthesis) to autom
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Meganwu/AutoOSS.git
 
 2. Navigate to the main directory
    cd AutoOSS
@@ -20,8 +20,6 @@ We developed the framework of AutoOSS (Autonomous on-surface synthesis) to autom
 
 conda install -c your-anaconda-username your-package-name
 
-
-6. 
 
 
 
