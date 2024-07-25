@@ -29,19 +29,14 @@ conda install -c your-anaconda-username your-package-name
 
 ## env_module
 
-<table>
-  <tr>
-    <td>
-      <img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
-    </td>
-    <td>
-      It consists of the interface to remote connection to STM/AFM software to monitor STM, target detection.
-    </td>
-  </tr>
-</table>
+
+It consists of the interface to remote connection to STM/AFM software to monitor STM, target detection.
+
 
 
 ## rl_module
+<img src="./Image/sac_architecture.png" alt="Sample Image" style="width:200px; float:left; margin-right:10px;">
+%<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
 The reinforcement learning module aims to optimize manipulation parameters.
 
 ## img_module
