@@ -35,9 +35,9 @@ It consists of the interface to remote connection to STM/AFM software to monitor
 
 
 ## rl_module
-<img src="./Image/sac_architecture.png" alt="Sample Image" style="width:200px; float:left; margin-right:10px;">
+<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
 The reinforcement learning module aims to optimize manipulation parameters.
-%<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
+
 ## img_module
 ![ResNet18 architecture](./Image/resnet18.png)
 Neural network models based on ResNet18 can be applied to identify reactants and products, where bayesian optimization technique is used to optimize hyperparameters like learning rate.
