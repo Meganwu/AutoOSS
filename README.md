@@ -52,8 +52,7 @@ It includes the script to show all dissociation cases with images and signal cur
 
 
 # License
-MIT license
-
+Distributed under the MIT License. More details are shown in LICENSE.
 
 
 # Citation
