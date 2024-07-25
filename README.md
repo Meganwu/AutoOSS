@@ -29,10 +29,10 @@ conda install -c your-anaconda-username your-package-name
 It consists of the interface to remote connection to STM/AFM software to monitor STM, target detection.
 
 ## rl_module
-The reinforcement learning module was aimed to optimize manipulation parameters.
+The reinforcement learning module aims to optimize manipulation parameters.
 
 ## img_module
-Neural network models based on ResNet18 were designed to identify reactants and products, where bayesian optimization technique was used to optimize hyperparameters like learning rate.
+Neural network models based on ResNet18 can be applied to identify reactants and products, where bayesian optimization technique is used to optimize hyperparameters like learning rate.
 
 ## params
 The optimized neural network parameters of image classifiers were uploaded to evalute the protrusion in STM images.
