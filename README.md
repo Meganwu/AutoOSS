@@ -1,5 +1,5 @@
 # Auto_Reaction_STM
-<img src="./Image/framework_total.png" alt="Workflow" style="width:60%;">
+<img src="./Image/framework_total.png" alt="Workflow" style="width:70%;">
 
 We developed the framework of AutoOSS (Autonomous on-surface synthesis) to automate chemical reactions (breaking C-Br) in scanning tunneling microscopy. It comprises the remote connection, target dection module, interpetation module (image classifiers to identify reactants and products), decision-making module to optimize parameters as well as various analysis scritps. 
 
@@ -28,7 +28,7 @@ conda install -c your-anaconda-username your-package-name
 # Usage
 
 ## env_module
-<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:60%;">
+<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
 
 It consists of the interface to remote connection to STM/AFM software to monitor STM, target detection.
 
