@@ -28,7 +28,8 @@ conda install -c your-anaconda-username your-package-name
 # Usage
 
 ## env_module
-![ResNet18 architecture](./Image/sac_architecture.png)
+<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:60%;">
+
 It consists of the interface to remote connection to STM/AFM software to monitor STM, target detection.
 
 ## rl_module
