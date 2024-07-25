@@ -35,7 +35,7 @@ It consists of the interface to remote connection to STM/AFM software to monitor
 
 
 ## rl_module
-<img src="./Image/sac_architecture.png" alt="Reinforcement learning architecture" style="width:40%;">
+
 The reinforcement learning module aims to optimize manipulation parameters.
 
 ## img_module
